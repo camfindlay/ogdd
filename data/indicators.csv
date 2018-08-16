@@ -2,7 +2,7 @@ indicator_id,parent_indicator_id,type,question_no,title,description
 fa1,,percentage,,Data management processes,"Identifies the key business processes that underpin data management and publication including quality control, publication workflows, and adoption of technical standards."
 fa2,,percentage,,Knowledge & skills ,"Highlights the steps required to create a culture of open data within an organisation by identifying the knowledge sharing, training and learning required to embed an understanding of the benefits of open data."
 fa3,,percentage,,Stakeholder engagement & support,Addresses the need for an organisation to engage with both their data sources and their data reusers to provide sufficient support and feedback to make open data successful.
-fa4,,percentage,,Licensing ,"Identifies the key business processes to ensure licensing of data is considered for data publication, and contracts renewals."
+fa4,,percentage,,Licensing ,"Identifies the key business processes to ensure licensing of data is considered for data publication and contract renewals."
 fa5,,percentage,,Investment and financial performance ,"Covers the need for organisations to have insights into the value of their datasets and the appropriate budgetary and financial oversight required to support their publication. For data consumption, organisations need to understand the cost and value associated with their reuse of third-party datasets."
 fa6,,percentage,,Strategic oversight ,"Highlights the need for an organisation to have a clear strategy around data sharing and reuse, and an identified leadership with responsibility and capacity to deliver that strategy."
 assets,,absolute,,Total number of assets available on data.govt.nz,
